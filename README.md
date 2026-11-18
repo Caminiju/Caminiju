@@ -6,7 +6,6 @@ Desenvolvedora **Fullstack** e estudante de **Análise e Desenvolvimento de Sist
 
 - 💻 Criei e mantenho **4 sistemas web em produção**, cada um com portal público e painel administrativo
 - 📱 Estou desenvolvendo um **app de carteirinha digital em Flutter**
-- 🌙 Tenho a **Nyxcode Systems**, minha marca de desenvolvimento web sob medida
 - 🤖 Uso IA no dia a dia de desenvolvimento e estou me aprofundando em **fullstack com IA e nuvem**
 
 ### 🛠️ Tecnologias
